@@ -80,7 +80,7 @@ body{
     padding: 50px;
     background-color: var(--moderate-violet);
     border-radius: 15px;
-    background-image: url(IMAGES/bg-pattern-quotation.svg);
+    background-image: url(./IMAGES/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: top 5px right 20px;
 }
